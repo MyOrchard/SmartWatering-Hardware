@@ -1,7 +1,7 @@
 # Smart Watering Hardware
 I`m using a Particle Photon as the heart of this smart watering system project.
 
-![Alt text](https://github.com/MyOrchard/SmartWatering-Hardware/images/the-heart.jpg "The heart of the system")
+![Alt text](https://raw.githubusercontent.com/MyOrchard/SmartWatering-Hardware/master/images/the-heart.jpg "The heart of the system")
 
 A list of some of the hardware i using in this project:
 
