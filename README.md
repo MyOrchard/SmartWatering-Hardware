@@ -9,6 +9,11 @@ A list of some of the hardware i using in this project:
 - [I2C soil moisture sensor] (https://www.tindie.com/products/miceuz/i2c-soil-moisture-sensor/)
 - [Water pump] (https://www.conrad.se/L%e5gsp%e4nningspump-dr%e4nkbar-Barwig-0333-720-l%2fh-6-m.htm)
 - [Compressed-air hose] (https://www.conrad.se/Tryckluftsslang-Norgren-PE0010025C-Polyeten-Natural-Ytter-%d8:-10-mm-Inre-diameter:-7-mm-11-bar.htm)
+- [Box 120x80x55] (http://www.electrokit.com/apparatlada-hammond-1591tsbk-120x80x55-svart.43171)
+- [Relay board 5v/logic level operation 1 channel] (https://www.m.nu/relay-board-5vlogic-level-operation-channel-assembled-p-1653.html)
+- Two 10k ohm resistor
+
+![Alt text](https://raw.githubusercontent.com/MyOrchard/SmartWatering-Hardware/master/images/hardware-connections.png "The connections between the hardware")
 
 The Particle Photon code is based on this repository and the version 1.0.0: https://github.com/yerpj/SmartWatering
 
