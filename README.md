@@ -21,6 +21,6 @@ The project is based on this repository and the code version 1.0.0: https://gith
 
 But with some modifications and added some functions to handle more then one i2c sensors.
 
-![Alt text](https://raw.githubusercontent.com/MyOrchard/SmartWatering-Hardware/master/images/photon-with-i2c-sensor "Particle Photon with one I2C soil moisture sensor")
+![Alt text](https://raw.githubusercontent.com/MyOrchard/SmartWatering-Hardware/master/images/photon-with-i2c-sensor.png "Particle Photon with one I2C soil moisture sensor")
 
-![Alt text](https://raw.githubusercontent.com/MyOrchard/SmartWatering-Hardware/master/images/i2csensor "I2C soil moisture sensors")
+![Alt text](https://raw.githubusercontent.com/MyOrchard/SmartWatering-Hardware/master/images/i2csensor.png "I2C soil moisture sensors")
