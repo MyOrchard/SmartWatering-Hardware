@@ -13,9 +13,11 @@ A list of some of the hardware i using in this project:
 - [Relay board 5v/logic level operation 1 channel] (https://www.m.nu/relay-board-5vlogic-level-operation-channel-assembled-p-1653.html)
 - Two 10k ohm resistor
 
+Here is some sketch over the hardware connections i did, its only shows one I2C soil moisture sensor but i using four parallel connected and using only two 10k ohm resistor for the four sensors.
+
 ![Alt text](https://raw.githubusercontent.com/MyOrchard/SmartWatering-Hardware/master/images/hardware-connections.png "The connections between the hardware")
 
-The Particle Photon code is based on this repository and the version 1.0.0: https://github.com/yerpj/SmartWatering
+The project is based on this repository and the code version 1.0.0: https://github.com/yerpj/SmartWatering
 
 But with some modifications and added some functions to handle more then one i2c sensors.
 
